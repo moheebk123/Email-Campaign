@@ -12,7 +12,7 @@ A simple backend system to schedule and simulate email campaign dispatches using
 
 1. Clone the repository
 2. Run `npm install`
-3. Set up `.env` with `MONGO_URI` AND `PORT`. '.env.sample' is given for reference.
+3. Set up `.env` with `MONGO_URI` AND `PORT`. `.env.sample` is given for reference.
 4. Run the app:
    ```bash
-   node server.js
+   npm start
